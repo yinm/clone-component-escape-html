@@ -1,1 +1,1 @@
-# clone-component-escape-html
+Clone [component/escape-html: Escape string for use in HTML](https://github.com/component/escape-html) for study
